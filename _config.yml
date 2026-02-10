@@ -1,0 +1,7 @@
+public:
+type: "docs"
+
+title:
+description:
+pages:
+  - ["Documentation Title", "index"]
