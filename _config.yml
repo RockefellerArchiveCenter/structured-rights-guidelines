@@ -1,6 +1,6 @@
 public: true
 type: "docs"
-title: "Creation, Maintenance and Use of Structured Rights Statements"
+title: "Structured Rights Statements Guidelines"
 description: "Guidelines for the creation, maintenance, and use of structured rights"
 pages:
-  - ["Creation, Maintenance and Use of Structured Rights Statements", "index"]
+  - ["Structured Rights Statements Guidelines", "index"]
