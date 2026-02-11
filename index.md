@@ -1,6 +1,6 @@
 ---
 layout: docs
-title:  "Creation, Maintenance and Use of Structured Rights Statements"
+title:  "Structured Rights Statements Guidelines"
 ---
 ## Introduction
 
